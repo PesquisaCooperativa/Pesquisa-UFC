@@ -17,11 +17,16 @@ o melhor circuito para determinados parâmetros.
 ## Orientandos
 
 - William Bruno Sales de Paula Lima
+- Manoel Eric Nascimento de Oliveira
+- Arthur Moreira do Nascimento
+- Paulo Ricardo Costa Nascimento
+- Sergio Franco Sales Filho
 
 ## Ferramentas
 
 - Python;
 - Jupyter Notebook + Anaconda;
+
 ## Períodos (Sprints)
 
 ### 30 Agosto - 5 Setembro
