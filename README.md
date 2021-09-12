@@ -69,6 +69,3 @@ o melhor circuito para determinados parâmetros.
 ### 01 Novembro - 28 Novembro
 
 - Obtenção de circuitos lógicos.
-
-
-Teste teste
